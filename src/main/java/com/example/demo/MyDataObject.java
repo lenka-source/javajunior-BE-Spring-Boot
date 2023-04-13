@@ -1,7 +1,7 @@
 package com.example.demo;
 
-public class MyDataObject {
 
+public class MyDataObject {
     private String shortName;
     private String validFrom;
     private String name;
